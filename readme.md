@@ -9,7 +9,7 @@
 3) создаем список при помощи List.replicate n x
 4) выводим на экран итоговый список
 ### тестирование
-<img width="420" height="101" alt="image" src="https://github.com/user-attachments/assets/ef24802d-bfdb-4132-981b-32f212746258" />
+<img width="408" height="100" alt="image" src="https://github.com/user-attachments/assets/443dfecd-bf9c-4932-9c2e-04f5601b308d" />
 
 # задание 2
 ## задача 2
@@ -20,4 +20,5 @@
 2) с помощью рекурсии находим произведение всех цифр числа
 3) выводим
 ### тестирование
-![Uploading image.png…]()
+<img width="420" height="101" alt="image" src="https://github.com/user-attachments/assets/8b62e672-e651-47f7-8fca-650cee61e567" />
+
